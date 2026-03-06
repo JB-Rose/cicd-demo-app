@@ -16,7 +16,7 @@ Procfile            Tells Render/Heroku how to start the app
 
 ## Activity 1: Set Up CI
 
-### 1. Fork or clone this repo
+### 1. Fork this repo
 
 ```bash
 git clone <repo-url>
