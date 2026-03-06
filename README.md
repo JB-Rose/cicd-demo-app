@@ -1,4 +1,4 @@
-# CMPE 195B — CI/CD Demo App
+# CMPE 195 — CI/CD Demo App
 
 A small Python/Flask app used in the **CI/CD & Deployment** class activity.
 
